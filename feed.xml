@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+	<item>
+		<title>Nuevos capitulos</title>
+		<link>https://jches24.github.io/pagweb/index.html#noticias</link>
+		<description>Han subido nuevos capitulos de tu anime favorito</description>
+		<pubDate>Thu, 22 May 2025 09:30:00 GMT</pubDate>
+		<guid>https://jches24.github.io/pagweb/index.html#noticias</guid>
+		</item>
+	<item>
+		<title>La proxima pelicula</title>
+		<link>https://jches24.github.io/pagweb/index.html#noticias</link>
+		<description>ya queda poco para la nueva pelicula de kimetsu no yaiba</description>
+		<pubDate>Thu, 22 May 2025 09:00:00 GMT</pubDate>
+		<guid>https://jches24.github.io/pagweb/index.html#noticias</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lista de capitulos>
+    <manga id="01">
+        <ubicacion>biblioteca 1</ubicacion>
+        <usuario>Juan jose Cherre</usuario>
+        <temporada>temporada 1</temporada>
+    </manga>
+    <manga id="02">
+        <ubicacion>biblioteca 2</ubicacion>
+        <usuario>Juan jose Cherre</usuario>
+        <temporada>temporada 2</temporada>
+    </manga>
+	    <manga id="03">
+        <ubicacion>biblioteca 3</ubicacion>
+        <usuario>Juan jose Cherre</usuario>
+        <temporada>temporada 3</temporada>
+    </manga>
+</inventario>

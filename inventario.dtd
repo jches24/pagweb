@@ -1,0 +1,7 @@
+<!ELEMENT invententario(manga+)>
+<!ELEMENT manga(ubicacion,usuario,temporada)>
+<!ELEMENT ubicacion(#PCDATA)>
+<!ELEMENT usuario(#PCDATA)>
+<!ELEMENT temporada(#PCDATA)>
+<!ATTLIST manga>
+    id ID #REQUIRED

@@ -1,0 +1,24 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+    <producto>
+        <nombre>manga 1</nombre>
+        <precio>12</precio>
+    </producto>
+    <producto>
+        <nombre>manga 2</nombre>
+        <precio>12</precio>
+    </producto>   
+    <producto>
+        <nombre>manga 3</nombre>
+        <precio>12</precio>
+    </producto>
+    <producto>
+        <nombre>figure art tanjiro</nombre>
+        <precio>45</precio>
+    </producto>
+    <producto>
+        <nombre>figure art espada</nombre>
+        <precio>35</precio>
+    </producto>
+</catalogo>
